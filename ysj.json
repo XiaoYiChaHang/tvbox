@@ -33,7 +33,7 @@
 
 {"key": "csp_xBPQ_奇优","name": "🅱️奇优影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/奇优影视.json"},
 
-{"key": "csp_xBPQ_二次萌","name": "🅱️二次萌视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/二次萌影视.json"},
+{"key": "csp_xBPQ_二次萌","name": "🅱️次萌影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/二次萌影视.json"},
 
 {"key": "csp_xBPQ_4K","name": "🅱️4k追番剧|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/4K追剧.json"},
 
@@ -55,15 +55,13 @@
 
 {"key": "csp_xBPQ_1891","name": "🅱️1891影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/1891影视.json"},
 
-{"key": "csp_xBPQ_438","name": "🅱️438影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/438影视.json"},
+{"key": "csp_xBPQ_438","name": "🅱️叁捌影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/438影视.json"},
 
 {"key": "csp_xBPQ_看奈飞","name": "🅱️奈飞影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看奈飞影视.json"},
 
-{"key": "csp_xBPQ_66","name": "🅱️66影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/66影视.json"},
+{"key": "csp_xBPQ_66","name": "🅱️六六影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/66影视.json"},
 
-{"key": "csp_xBPQ_看了么","name": "🅱️看了么影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看了么影视.json"},
-
-{"key": "csp_xBPQ_1080","name": "🅱️1080影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/1080影视.json"},
+{"key": "csp_xBPQ_看了么","name": "🅱️看么影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看了么影视.json"},
 
 {"key": "csp_xBPQ_1080","name": "🅱️1080影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/1080影视.json"},
 
@@ -75,7 +73,7 @@
 
 {"key": "csp_xBPQ_98","name": "🅱️九八影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/九八影视.json"},
 
-{"key": "csp_xBPQ_看一看","name": "🅱️看一看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看一看影视.json"},
+{"key": "csp_xBPQ_看一看","name": "🅱️看看影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看一看影视.json"},
 
 {"key": "csp_xBPQ_酷客","name": "🅱️酷客影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/酷客影视.json"},
 
@@ -101,8 +99,15 @@
 
 {"key": "csp_xBPQ_Free","name": "🅱️Free影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/Free影视.json"},
 
-
 {"key": "csp_xBPQ_饭团","name": "🅱️饭团影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/饭团影视HD.json"},
+
+{"key": "csp_xBPQ_可视","name": "🅱️可视影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/可视影视.json"},
+
+{"key": "csp_xBPQ_蝶众","name": "🅱️蝶众影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蝶众影视.json"},
+
+{"key": "csp_xBPQ_光棍","name": "🅱️光棍影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/光棍影视.json"},
+
+{"key": "csp_xBPQ_油壶","name": "🅱️油壶影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/油壶影视.json"},
 
 {"key": "csp_xBPQ_555","name": "🅱️珊瑚影视|T搜索","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
 
@@ -111,7 +116,6 @@
 {"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./TV/py_ysdq.py"},
 
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./TV/py_yszx.py"},
-
 
 {"key": "YiSo","name": "🔍阿里|易搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./PanSo/token.txt"},
 
