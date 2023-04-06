@@ -6,13 +6,17 @@
     
     "首页":"电视剧",
     
-    "搜索url":"/vodsearch/{wd}----------{pg}---.html",
+    "数组":"<a class=\"vodlist_thumb lazyload\"&&</a>",
     
-    "搜索数组":"<div class=\"searchlist_img\">&&</div>",
+    "图片":"data-original=\"&&\"",
     
-    "搜索图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
     
-    "搜索标题":"title=\"&&\"",
+    "副标题":"text_right\">&&</span>",
+    
+    "链接":"href=\"&&\"",
+        
+    "简介":"none;\">&&</span>",
     
     "分类url":"https://www.chuandi.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;xmal",
     
