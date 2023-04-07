@@ -6,7 +6,7 @@
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=./TV/zby.txt"]}]}],
 
-"warningText":"接口完全免费，切勿付费购买",
+"warningText":"荷城茶秀接口完全免费，切勿付费购买！",
 "sites": [
  
 {"key":"js_豆瓣荐片","name":"🅱️追剧影院|T热播","type":3,"api":"./JS/lib/doubanjianpian1.js","ext":"./JS/js/doubanjianpian2.js"},
@@ -108,6 +108,16 @@
 {"key": "csp_xBPQ_光棍","name": "🅱️光棍影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/光棍影视.json"},
 
 {"key": "csp_xBPQ_油壶","name": "🅱️油壶影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/油壶影视.json"},
+
+{"key": "csp_xBPQ_鸡婆","name": "🅱️鸡婆影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/鸡婆影视.json"},
+
+{"key": "csp_xBPQ_花猫","name": "🅱️花猫影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/花猫影视.json"},
+
+{"key": "csp_xBPQ_草莓","name": "🅱️草莓影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/草莓影视.json"},
+
+{"key": "csp_xBPQ_蜥蜴","name": "🅱️蜥蜴影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蜥蜴影视.json"},
+
+{"key": "csp_xBPQ_青苹果","name": "🅱️青苹果影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/青苹果影视.json"},
 
 {"key": "csp_xBPQ_555","name": "🅱️珊瑚影视|T搜索","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
 
