@@ -117,7 +117,7 @@
 
 {"key": "csp_xBPQ_蜥蜴","name": "🅱️蜥蜴影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蜥蜴影视.json"},
 
-{"key": "csp_xBPQ_青苹果","name": "🅱️青苹果影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/青苹果影视.json"},
+{"key": "csp_xBPQ_青苹果","name": "🅱️青果影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/青苹果影视.json"},
 
 {"key": "csp_xBPQ_555","name": "🅱️珊瑚影视|T搜索","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
 
