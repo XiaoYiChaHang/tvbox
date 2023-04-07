@@ -13,16 +13,16 @@
     "链接":"href=\"&&\"",
     
     "副标题":"text-right\">&&</",
-    
+        
     "搜索url":"/search/{wd}----------{pg}---.html",
     
-    "搜索数组":"lazyload&&a>",
+    "搜索数组":"\"myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100&&/a>",
     
     "搜索图片":"data-original=\"&&\"",
     
     "搜索标题":"title=\"&&\"",
     
-    "搜索副标题":"text-right\">&&</",
+    "搜索副标题":"text-right\">&&<",
     
     "简介":"'剧情简介','&&','500','350'",
     
