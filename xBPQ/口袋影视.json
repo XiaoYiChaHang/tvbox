@@ -1,0 +1,36 @@
+    {
+    
+    "作者":"荷城茶秀",
+    
+    "站名":"口袋影视",
+    
+    "主页url":"http://www.koudaitv.com/",
+    
+    "数组":"<li class=\"vbox\">&&</li>",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"<span>&&</span>",
+    
+    "链接":"href=\"&&\"",
+    
+    //"搜索url":"/search-pg-{pg}-wd-{wd}.html",
+    
+    "简介":"tbox_js\">&&</div>",
+    
+    "影片类型":"<p class=\"yac\">&&立即播放",
+    
+    "线路数组":"<div class=\"tbox_t\"&&</div>",
+    
+    "线路标题":"</i>&&</h3>",
+    
+    "播放数组":"<ul class=\"list_block show\">&&</ul>",
+    
+    "播放标题":">&&</a>",
+    
+    "分类url":"http://www.koudaitv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#韩剧$14#美剧$15"}
+    
