@@ -121,6 +121,14 @@
 
 {"key": "csp_xBPQ_4088","name": "🅱️4088影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/4088影视.json"},
 
+{"key": "csp_xBPQ_乌龟","name": "🅱️乌龟影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/乌龟影视.json"},
+
+{"key": "csp_xBPQ_口袋","name": "🅱️口袋影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/口袋影视.json"},
+
+{"key": "csp_xBPQ_蚂蚁","name": "🅱️蚂蚁影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/蚂蚁影视.json"},
+
+{"key": "csp_xBPQ_吾爱","name": "🅱️吾爱影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/吾爱影视.json"},
+
 {"key": "csp_xBPQ_555","name": "🅱️珊瑚影视|T搜索","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
 
 {"key": "csp_xBPQ_布蕾","name": "🅱️布蕾影视|T搜索","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/布蕾影视.json"},
