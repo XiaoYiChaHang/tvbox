@@ -14,6 +14,8 @@
     
     "链接":"href=\"&&\"",
     
+    "简介":"<div class=\"m-box ec-show cor2 top26 full-tex\">&&收起",
+    
     "分类url":"https://qzy998-wap-1.ysgq.xyz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;x",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5",
