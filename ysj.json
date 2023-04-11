@@ -9,7 +9,7 @@
 "warningText":"荷城茶秀接口完全免费，切勿付费购买！",
 "sites": [
  
-{"key":"js_豆瓣荐片","name":"🅱️追剧影院|T热播<?php echo "" . date("⌛n月j日H时i分⌛更新"); ?>","type":3,"api":"./JS/lib/doubanjianpian1.js","ext":"./JS/js/doubanjianpian2.js"},
+{"key":"js_豆瓣荐片","name":"🅱️追剧影院|T热播","type":3,"api":"./JS/lib/doubanjianpian1.js","ext":"./JS/js/doubanjianpian2.js"},
 
 {"key": "csp_xBPQ_荷城","name": "🅱️荷城影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/荷城影视.json"},
 
