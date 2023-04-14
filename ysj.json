@@ -127,7 +127,7 @@
 
 {"key": "csp_xBPQ_555","name": "🅱️珊瑚影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
 
-{"key": "csp_xBPQ_539","name": "🅱️5395影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/555影视.json"},
+{"key": "csp_xBPQ_539","name": "🅱️5395影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/539影视.json"},
 
 {"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./TV/py_ysdq.py"},
 
