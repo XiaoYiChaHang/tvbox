@@ -16,7 +16,7 @@
     
     "链接":"href=\"&&\"",
     
-    "分类url":"https://www.hdmoli.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class}",
+    "分类url":"https://www.hdmoli.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;a",
     
     "分类":"电影$1#电视剧$2#动画$41",
     
