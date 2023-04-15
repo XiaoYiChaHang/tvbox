@@ -1,5 +1,6 @@
 ⛄️央视频道,#genre#
 
+CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV-1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV-1,http://live.cooltv.top/tv/aishang.php?id=cctv1
 CCTV-1,http://hls.ye23.vip/hls/cctv1hd.m3u8
