@@ -13,7 +13,15 @@
 
 {"key": "csp_xBPQ_荷城","name": "🅱️荷城影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/荷城影视.json"},
 
-{"key": "csp_xBPQ_茶秀","name": "🅱️茶秀影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/奇优影视.json"},
+{"key": "csp_xBPQ_奇优","name": "🅱️奇优影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/奇优影视.json"},
+
+{"key": "csp_我爱","name": "🅱️我爱看剧|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/52看剧.json"},
+
+{"key": "csp_剧白","name": "🅱️剧白影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/剧白白.json"},
+
+{"key": "csp_大豆","name": "🅱️大豆高清|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大豆高清.json"},
+
+{"key": "csp_看看剧","name": "🅱️看剧影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/看看剧.json"},
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
