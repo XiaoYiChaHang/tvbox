@@ -4,11 +4,51 @@
     
     "站名":"孜然影视",
     
+    "主页url":"https://kan3456.cc/",
+    
+    "数组":"<a&&module-poster-item-info\">",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"module-item-note\">&&</div>",
+    
+    "链接":"href=\"&&\"",
+    
+    "播放数组":"<div class=\"module-play-list-content&&</div>",
+    
+    "播放标题":"<span>&&</span>",
+    
+    "播放列表":"<a&&</a>",
+    
     "线路数组":"data-dropdown-value=&&</div>",
     
-    "线路标题":"<span>&&</small>[替换:lzm1080P>>荷城在线#ffm1080P>>茶秀在线#</span><small>>>♥共]+集♥",
+    "搜索url":"/index.php/vod/search.html?wd={wd}",
     
-    "分类url":"https://www.zrys.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;x",
+    "搜索数组":"module-card-item-class\">&&</a>",
+    
+    "搜索图片":"data-original=\"&&\"",
+    
+    "搜索标题":"alt=\"&&\"",
+    
+    "搜索副标题":"module-item-note\">&&</div>",
+    
+    "搜索链接":"href=\"&&\"",
+    
+    "线路标题":"<span>&&</small>[替换:</span><small>>>🌸共]+集🌸",
+    
+    "简介":"<p&&</p>",
+    
+    "导演":"导演：&&</div>",
+    
+    "主演":"主演：&&</div>",
+    
+    "影片状态":"更新：&&</div>",
+    
+    "影片类型":"module-info-tag-link\">&&立即播放",
+    
+    "分类url":"https://kan3456.cc/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/2023.html;;a",
     
     "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
     
