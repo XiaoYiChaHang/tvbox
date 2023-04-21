@@ -48,8 +48,8 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://985pc.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.htm;;am",
-    
+    "分类url":"https://985pc.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.htm;;m",
+        
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
     
     "筛选":{
