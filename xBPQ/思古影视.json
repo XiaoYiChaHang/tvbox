@@ -4,6 +4,20 @@
     
     "站名":"思古影视",
     
+    "主页url":"https://www.siguyy.com/",
+    
+    "影片状态":"text-red\">&&</p>",
+    
+    "影片类型":"分类：&&</a>",
+    
+    "影片地区":"地区：&&</a>",
+    
+    "影片年代":"年份：&&</a>",
+    
+    "导演":"导演：&&</p>",
+    
+    "主演":"主演：&&</p>",
+    
     "数组":"<div class=\"myui-vodlist__box\">&&</a>",
     
     "图片":"data-original=\"&&\"",
@@ -26,7 +40,17 @@
     
     "简介":"'剧情简介','&&','500','350'",
     
-    "分类url":"https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;malx",
+    "播放数组":"list sort-list clearfix&&</ul>",
+    
+    "播放标题":">&&</a>",
+    
+    "播放列表":"<li&&</li>",
+    
+    "线路数组":"data-toggle=&&</li>",
+    
+    "线路标题":">&&</a>",
+    
+    "分类url":"https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ma",
     
     "分类":"电影$m#电视剧$tv#综艺$va#动漫$ct#少儿$se",
     
