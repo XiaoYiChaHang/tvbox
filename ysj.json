@@ -25,7 +25,9 @@
 
 {"key": "csp_热播","name": "🅱️热播之家|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/热播之家.json"},
 
-{"key": "csp_无名","name": "🅱️无名小站|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/无名小站.json"},
+{"key": "csp_魔力","name": "🅱️魔力影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/魔力影视.json"},
+
+{"key": "csp_龙猫","name": "🅱️龙猫影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/龙猫影视.json"},
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
