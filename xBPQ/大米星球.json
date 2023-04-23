@@ -6,13 +6,23 @@
     
     "主页url":"http://web.hosts-dami.com/",
     
+    "简介":"<p&&</p>",
+    
+    "导演":"导演：&&</div>",
+    
+    "主演":"主演：&&</div>",
+    
+    "影片状态":"更新：&&</div>",
+    
+    "影片类型":"<div class=\"module-info-tag\"&&立即播放",
+    
     "数组":"<a&&<div class=\"module-poster-item-info\">",
     
     "图片":"data-original=\"&&\"",
     
     "标题":"alt=\"&&\"",
     
-    "副标题":"module-item-note\">&&<div class=\"module-item-pic\">",
+    "副标题":"module-item-note\">&&</div>",
     
     "链接":"href=\"&&\"",
     
