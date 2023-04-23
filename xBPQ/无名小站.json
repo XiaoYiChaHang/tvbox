@@ -26,31 +26,22 @@
       
     "链接后缀": "-1-1/",
       
-    "搜索模式": "1",
-      
-    "搜索url": "/vodsearch/{wd}----------1---/",
-      
-    "搜索数组": "data-key=\"2\">&&</a>",
-      
-    "搜索图片": "data-original=\"&&\"",
-      
-    "搜索标题": "mdui-p-t-1\">&&</span>",
-      
-    "搜索链接": "href=\"/voddetail&&/\"",
-      
-    "搜索副标题": "title*>&&</span>",
-      
-    "搜索链接前缀": "https://blssv.com/vodplay",
-      
-    "搜索链接后缀": "-1-1/",
-      
+      "搜索模式": "1",
+  "搜索url": "/vodsearch/{wd}----------1---/",
+  "搜索数组": "data-key=\"2\">&&</a>",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "mdui-p-t-1\">&&</span>",
+  "搜索链接": "href=\"/voddetail&&/\"",
+  "搜索副标题": "title*>&&</span>",
+  "搜索链接前缀": "https://blssv.com/vodplay",
+  "搜索链接后缀": "-1-1/",
     "线路数组": "mdui-panel-item-title&&/div>[排序:高清②>>高清①>>腾讯>>优酷>>奇异][不包含:蓝光①]",
       
     "线路标题": ">&&<",
       
     "播放数组": "mdui-panel-item-body&&<div",
     
-    "分类url":"https://blssv.com/vodshow-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/;;am",
+    "分类url":"https://blssv.com/vodshow-{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/;;amk",
     
     "筛选":{
     "1":[
