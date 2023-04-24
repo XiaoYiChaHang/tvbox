@@ -157,7 +157,7 @@
 
 {"key": "UpYun","name": "🔍阿里|优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
 
-{"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt},
+{"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://agit.ai/kvymin/TV/raw/branch/master/alitoken.txt"},
 
 {"key":"mtv_xp_动漫巴士","name":"动漫丨巴士","type":3,"api":"csp_XBPQ"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/动漫巴士.json"},
 
