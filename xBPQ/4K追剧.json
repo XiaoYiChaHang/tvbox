@@ -1,15 +1,50 @@
     {
+    
     "作者":"荷城茶秀",
     
     "站名":"4k追剧番",
     
-    "分类url":"https://www.jiketv.com/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;malx",
+    "主页url":"https://www.jiketv.com/",
     
-    "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+    //"首页":"电视剧",
     
+    "简介":"<div class=\"show-desc\"&&</p>",
+    
+    "导演":"导演：&&<div>",
+    
+    "主演":"主演：&&</div>",
+    
+    "影片状态":"更新：&&</div>",
+    
+    "影片类型":"<div class=\"module-info-tag\">&&立即播放",
+    
+    "数组":"<a&&\"module-poster-item-info",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"item-note\">&&</div>",
+    
+    "链接":"href=\"&&\"",
+    
+    "搜索url":"/index.php/search/wd/{wd}",
+    
+    //"搜索数组":"<a&&/strong>",
+    
+    //"搜索图片":"data-original=\"&&\"",
+    
+    //"搜索标题":"<strong>&&<",
+    
+    //"搜索副标题":"note\">&&</div>",
+    
+    //"搜索链接":"href=\"&&\"",
+   
+    "分类url":"https://www.jiketv.com/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;mal",
+        
     "线路数组":"data-dropdown-value=&&</div>",
     
-    "线路标题":"<span>&&</small>[替换:</span><small>>>线路♥共]+集♥",
+    "线路标题":"<span>&&</small>[替换:</span><small>>>线路🌸共]+集🌸",
     
     "播放数组":"<div class=\"module-play-list\">&&</div>",
     
