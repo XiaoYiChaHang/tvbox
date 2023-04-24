@@ -28,15 +28,15 @@
     
     "搜索url":"/vodsearch/-------------.html?wd={wd};;d0",
     
-    "搜索数组":"module-card-item module-item\">&&module-card-item-info\">",
+    //"搜索数组":"module-card-item module-item\">&&module-card-item-info\">",
     
-    "搜索图片":"data-original=\"&&\"",
+    //"搜索图片":"data-original=\"&&\"",
     
-    "搜索标题":"alt=\"&&\"",
+    //"搜索标题":"alt=\"&&\"",
     
-    "搜索副标题":"module-item-note\">&&</div>",
+    //"搜索副标题":"module-item-note\">&&</div>",
     
-    "搜索链接":"href=\"&&\"",
+    //"搜索链接":"href=\"&&\"",
     
     "线路数组":"data-dropdown-value=&&</div>[排序:非凡线路>>大米蓝光]",
     
