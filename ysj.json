@@ -29,6 +29,10 @@
 
 {"key": "csp_龙猫","name": "🅱️龙猫影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/龙猫影视.json"},
 
+{"key": "csp_土豪","name": "🅱️土豪影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/土豪影视.json"},
+
+{"key": "csp_小站","name": "🅱️无名小站|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/无名小站.json"},
+
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -145,8 +149,6 @@
 
 {"key": "csp_大米","name": "🅱️大米星球|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/大米星球.json"},
 
-//{"key": "csp_无名","name": "🅱️无名小站|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/无名小站.json"},
-
 {"key": "py_cctv_full","name": "📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./TV/py_ysdq.py"},
 
 {"key": "py_cctv","name": "📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./TV/py_yszx.py"},
@@ -179,15 +181,39 @@
 
 {"key":"mtv_xp_戏曲杂苑","name":"🅱戏曲杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./xBPQ/戏曲杂苑.json"}],
 
-//解析接口
-
 "parses":[
 
-//{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"解析聚合","type":3,"url":"Demo"},
 
-//{"name": "嗅探聚合","type": 3,"url": "Web"},
+{"name": "嗅探聚合","type": 3,"url": "Web"},
+
+{"name":"观音解析","url":"http://json.yimufund.net/jsonindex.php?url=","type":1,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent": "LuaSocket 3.0-rc1"}},"header":{"User-Agent": "LuaSocket 3.0-rc1"}},
+
+{"name":"寿眉解析","type":1,"url":"http://180.102.25.145:66/api/jsonindex.php/?key=vd4Kpwz3WxUEg16hmf&url="},
+
+{"name":"冰岛解析","type":1,"url":"https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url="},
+
+{"name":"昔归解析","type":1,"url":"https://api.itcxo.cn/api/jsonindex.php/?key=zfFfINCGuFDFqzc24L&url="},
+
+{"name":"陈皮解析","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+
+{"name":"茶盘解析","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+
+{"name":"班章解析","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
+
+{"name":"滇红解析","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+
+{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+
+{"name":"毛尖解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
 {"name":"白茶嗅探","url":"https://jx.bozrc.com:4433/player/?url=", "showType":1},
+
+{"name":"青柑嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+
+{"name":"肉桂嗅探","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+
+{"name":"小种嗅探","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
 {"name": "普洱嗅探","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
 
