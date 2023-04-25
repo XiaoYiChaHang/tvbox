@@ -5,7 +5,7 @@
     "站名":"思古影视",
     
     "主页url":"https://www.siguyy.com/",
-    
+        
     "影片状态":"text-red\">&&</p>",
     
     "影片类型":"分类：&&</a>",
@@ -18,7 +18,7 @@
     
     "主演":"主演：&&</p>",
     
-    "数组":"<div class=\"myui-vodlist__box\">&&</a>",
+    "数组":"myui-vodlist__thumb lazyload\"&&</a>",
     
     "图片":"data-original=\"&&\"",
     
@@ -28,9 +28,9 @@
     
     "副标题":"text-right\">&&</",
         
-    "搜索url":"/search/{wd}----------{pg}---.html",
+    "搜索url":"/search/-------------.html?wd={wd}&submit=",
     
-    "搜索数组":"\"myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100&&/a>",
+    "搜索数组":"myui-vodlist__thumb&&/a>",
     
     "搜索图片":"data-original=\"&&\"",
     
@@ -48,12 +48,11 @@
     
     "线路数组":"data-toggle=&&</li>",
     
-    "线路标题":">&&</a>",
+    "线路标题":"\"tab\"&&</a>[替换:>>>🌸]+🌸",
     
-    "分类url":"https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ma",
+    "分类url":"https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;akd0",
     
     "分类":"电影$m#电视剧$tv#综艺$va#动漫$ct#少儿$se",
-    
     
     "筛选":{
     "m":[
