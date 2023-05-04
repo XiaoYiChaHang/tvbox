@@ -4,6 +4,22 @@
     
     "站名":"油壶影视",
     
+    "主页url":"https://www.yohu.tv/",
+    
+    "简介":"荷城茶秀提醒您请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+    
+    "导演":"导演：&&</p>",
+    
+    "主演":"主演：&&</p>",
+    
+    "影片地区":"地区：&&</p>",
+    
+    "影片年代":"年份：&&</p>",
+    
+    "影片类型":"pic-text1 text-right\">&&</span>",
+    
+    "影片状态":"pic-text text-right\">&&</span>",
+    
     "数组":"<div class=\"stui-vodlist__box\">&&</a>",
     
     "图片":"data-original=\"&&\"",
@@ -12,23 +28,31 @@
     
     "副标题":"\"pic-text text-right\">&&</span>",
     
-    "搜索url":"/vodsearch/{wd}----------{pg}---.html",
+    "链接":"href=\"&&\"",
     
-    "搜索数组":"<a class=\"stui-vodlist__thumb lazyload\"&&</h4>",
+    "搜索url":"/vodsearch/{wd}-------------.html",
+    
+    "搜索数组":"stui-vodlist__thumb&&</a>",
     
     "搜索图片":"data-original=\"&&\"",
     
     "搜索标题":"title=\"&&\"",
     
-    "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+    "搜索副标题":"pic-text text-right\">&&</span>",
     
-    "简介":"简介：&&</p>",
+    "搜索链接":"href=\"&&\"",
     
-    "导演":"导演：&&</p>",
+    "线路数组":"data-toggle=&&/a>[替换:线路一>>油壶线路①#线路二>>油壶线路②]",
     
-    "主演":"主演：&&</p>",
+    "线路标题":"🌸+>&&<+🌸",
     
-    "分类url":"https://www.yohu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "播放数组":"stui-content__playlist&&</ul>",
+    
+    "播放列表":"<a&&/a>",
+    
+    "播放标题":">&&<",
+    
+    "分类url":"https://www.yohu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5",
     
